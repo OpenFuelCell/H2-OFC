@@ -18,3 +18,5 @@ Big thanks to Taras W. CMO @ Horizon Fuel Cell Technologies, Singapore
               Katie Rast, Maker/Ed Director at FabLabSD.org & MIT FabLab Global Network
               Carlos Uranga, Idea guy -> apply open source & modularity towards fuel cell implementation
                                          Founder OpenFuelCell, H2OFC
+3. MORE TO COME!
+follow us on http://twitter.com/openfuelcell
